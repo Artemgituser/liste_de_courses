@@ -17,7 +17,6 @@ Mes Courses est une application mobile Android permettant d'organiser une liste 
 ---
 
 ## 🏗️ Architecture
-
 MesCourses/
 ├── app/src/main/
 │   ├── java/com/example/mescourses/
@@ -54,4 +53,4 @@ MesCourses/
     ├── change_password.php
     ├── change_email.php
     └── create_table.sql
----
+
