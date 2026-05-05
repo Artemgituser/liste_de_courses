@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mes Courses</string>
+    <string name="login">Connexion</string>
+    <string name="register">Créer un compte</string>
+    <string name="username">Nom d\'utilisateur</string>
+    <string name="email">Adresse e-mail</string>
+    <string name="password">Mot de passe</string>
+    <string name="confirm_password">Confirmer le mot de passe</string>
+    <string name="btn_login">Se connecter</string>
+    <string name="btn_register">S\'inscrire</string>
+    <string name="no_account">Nouveau client ? Créer un compte</string>
+    <string name="already_account">Vous avez déjà un compte ? Se connecter</string>
+    <string name="menu_profil">Profil</string>
+    <string name="menu_produits">Produits</string>
+    <string name="menu_courses">Mes Courses</string>
+    <string name="menu_archivage">Archivage</string>
+    <string name="add_product">Ajouter un produit</string>
+    <string name="product_name">Nom du produit</string>
+    <string name="quantity">Quantité</string>
+    <string name="rayon">Rayon</string>
+    <string name="btn_add">Ajouter</string>
+    <string name="btn_cancel">Annuler</string>
+    <string name="dark_mode">Mode sombre</string>
+    <string name="change_password">Modifier le mot de passe</string>
+    <string name="change_email">Modifier l\'e-mail</string>
+    <string name="logout">Déconnexion</string>
+    <string name="courses_en_cours">Courses en cours</string>
+    <string name="archivage">Archivage</string>
+    <string name="swipe_delete">Supprimer</string>
+    <string name="swipe_add_list">Ajouter à la liste</string>
+</resources>

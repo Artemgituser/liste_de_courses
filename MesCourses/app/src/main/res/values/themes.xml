@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.MesCourses" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/green_primary</item>
+        <item name="colorPrimaryVariant">@color/green_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorSecondary">@color/green_accent</item>
+        <item name="colorOnSecondary">@color/charcoal</item>
+        <item name="colorSurface">@color/surface</item>
+        <item name="colorOnSurface">@color/charcoal</item>
+        <item name="android:colorBackground">@color/cream</item>
+        <item name="android:statusBarColor">@color/green_dark</item>
+        <item name="android:windowLightStatusBar" tools:targetApi="m">false</item>
+    </style>
+
+    <style name="Theme.MesCourses.Splash" parent="Theme.MesCourses">
+        <item name="android:windowFullscreen">true</item>
+        <item name="android:windowBackground">@color/green_primary</item>
+    </style>
+
+    <!-- Button styles -->
+    <style name="Widget.MesCourses.Button" parent="Widget.MaterialComponents.Button">
+        <item name="backgroundTint">@color/green_primary</item>
+        <item name="android:textColor">@color/white</item>
+        <item name="cornerRadius">12dp</item>
+        <item name="android:paddingTop">14dp</item>
+        <item name="android:paddingBottom">14dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:letterSpacing">0.02</item>
+    </style>
+
+    <style name="Widget.MesCourses.Button.Outlined" parent="Widget.MaterialComponents.Button.OutlinedButton">
+        <item name="strokeColor">@color/green_primary</item>
+        <item name="android:textColor">@color/green_primary</item>
+        <item name="cornerRadius">12dp</item>
+    </style>
+
+    <!-- Card style -->
+    <style name="Widget.MesCourses.Card" parent="Widget.MaterialComponents.CardView">
+        <item name="cardCornerRadius">16dp</item>
+        <item name="cardElevation">2dp</item>
+        <item name="cardBackgroundColor">@color/white</item>
+    </style>
+
+    <!-- EditText style -->
+    <style name="Widget.MesCourses.TextInputLayout" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+        <item name="boxStrokeColor">@color/green_primary</item>
+        <item name="hintTextColor">@color/green_primary</item>
+        <item name="boxCornerRadiusTopStart">12dp</item>
+        <item name="boxCornerRadiusTopEnd">12dp</item>
+        <item name="boxCornerRadiusBottomStart">12dp</item>
+        <item name="boxCornerRadiusBottomEnd">12dp</item>
+    </style>
+
+</resources>
