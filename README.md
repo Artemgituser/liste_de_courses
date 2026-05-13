@@ -1,4 +1,4 @@
-# liste_de_courses
+# Application Liste de courses
 ## 📱 Présentation
 
 Mes Courses est une application mobile Android permettant d'organiser une liste de courses en temps réel.
