@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/cream">
+
+    <com.google.android.material.appbar.MaterialToolbar
+        android:id="@+id/toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="?attr/actionBarSize"
+        android:background="@color/green_primary"
+        app:title="@string/courses_en_cours"
+        app:titleTextColor="@color/white"
+        app:navigationIconTint="@color/white"/>
+
+    <!-- Info swipe -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        android:padding="12dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/archiver"
+            android:textSize="12sp"
+            android:textColor="@color/green_add"
+            android:textStyle="bold"
+            android:gravity="start"/>
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:text="@string/supprimer"
+            android:textSize="12sp"
+            android:textColor="@color/red_delete"
+            android:textStyle="bold"
+            android:gravity="end"/>
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/tvEmpty"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/aucun_article_dans_la_liste_najoutez_des_produits_depuis_l_archivage"
+        android:gravity="center"
+        android:textSize="15sp"
+        android:textColor="@color/text_secondary"
+        android:visibility="gone"/>
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/recyclerViewCourses"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:paddingStart="12dp"
+        android:paddingEnd="12dp"
+        android:paddingBottom="16dp"
+        android:clipToPadding="false"
+        android:overScrollMode="never"/>
+
+    <Button
+        android:id="@+id/btnFinishTrip"
+        style="@style/Widget.MesCourses.Button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:text="@string/terminer_les_courses"
+        android:backgroundTint="@color/green_primary"/>
+
+</LinearLayout>

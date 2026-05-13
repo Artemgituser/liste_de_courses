@@ -1,0 +1,150 @@
+[
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\layout_activity_modif_quantite.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\layout\\activity_modif_quantite.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\drawable_bg_swipe_delete.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\drawable\\bg_swipe_delete.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\mipmap_ic_launcher.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\mipmap\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\layout_activity_profil.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\layout\\activity_profil.xml"
+    },
+    {
+        "merged": "com.example.mescourses.app-merged_res-32:/layout_activity_splash.xml.flat",
+        "source": "com.example.mescourses.app-main-34:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.example.mescourses.app-merged_res-32:/layout_activity_archivage.xml.flat",
+        "source": "com.example.mescourses.app-main-34:/layout/activity_archivage.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\layout_item_course.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\layout\\item_course.xml"
+    },
+    {
+        "merged": "com.example.mescourses.app-merged_res-32:/layout_activity_register.xml.flat",
+        "source": "com.example.mescourses.app-main-34:/layout/activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\layout_activity_courses.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\layout\\activity_courses.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\drawable_bg_card.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\drawable\\bg_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "com.example.mescourses.app-merged_res-32:/layout_activity_main.xml.flat",
+        "source": "com.example.mescourses.app-main-34:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "com.example.mescourses.app-merged_res-32:/layout_activity_list_management.xml.flat",
+        "source": "com.example.mescourses.app-main-34:/layout/activity_list_management.xml"
+    },
+    {
+        "merged": "com.example.mescourses.app-merged_res-32:/layout_item_shopping_list.xml.flat",
+        "source": "com.example.mescourses.app-main-34:/layout/item_shopping_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\layout_activity_list_management.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\layout\\activity_list_management.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\layout_activity_produits.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\layout\\activity_produits.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\drawable_bg_input.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\drawable\\bg_input.xml"
+    },
+    {
+        "merged": "com.example.mescourses.app-merged_res-32:/layout_activity_login.xml.flat",
+        "source": "com.example.mescourses.app-main-34:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.example.mescourses.app-merged_res-32:/layout_activity_courses.xml.flat",
+        "source": "com.example.mescourses.app-main-34:/layout/activity_courses.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.mescourses.app-merged_res-32:/layout_activity_modif_quantite.xml.flat",
+        "source": "com.example.mescourses.app-main-34:/layout/activity_modif_quantite.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\layout_activity_archivage.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\layout\\activity_archivage.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\layout_item_produit.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\layout\\item_produit.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\drawable_bg_swipe_add.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\drawable\\bg_swipe_add.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\mipmap_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\mipmap\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\drawable_bg_green_button.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\drawable\\bg_green_button.xml"
+    },
+    {
+        "merged": "com.example.mescourses.app-merged_res-32:/layout_item_produit.xml.flat",
+        "source": "com.example.mescourses.app-main-34:/layout/item_produit.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\drawable_bg_badge_green.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\drawable\\bg_badge_green.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.mescourses.app-merged_res-32:/layout_item_course.xml.flat",
+        "source": "com.example.mescourses.app-main-34:/layout/item_course.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\layout_item_shopping_list.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\layout\\item_shopping_list.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\drawable_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\drawable\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.example.mescourses.app-merged_res-32:/layout_activity_profil.xml.flat",
+        "source": "com.example.mescourses.app-main-34:/layout/activity_profil.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-merged_res-32:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\DWWM\\.gradle\\daemon\\8.4\\com.example.mescourses.app-main-34:\\drawable\\ic_launcher_background.xml"
+    }
+]
